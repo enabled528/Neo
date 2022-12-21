@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+<?xml-stylesheet type="text/xsl" href="dblp.xslt"?>
+<dblp
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.w3schools.com dblp.xsd">
+	<article key="journals/dke/TangCKW13" mdate="2021-10-14">
+		<author>Jie Tang 0001</author>
+		<author orcid="0000-0002-6468-5729">Ling Chen 0006</author>
+		<author>Irwin King</author>
+		<author>Jianyong Wang 0001</author>
+		<title>Introduction to Special section on Large-scale Data Mining.</title>
+		<pages>355-356</pages>
+		<year>2013</year>
+		<volume>87</volume>
+		<journal>Data Knowl. Eng.</journal>
+		<ee>https://doi.org/10.1016/j.datak.2013.05.001</ee>
+		<url>db/journals/dke/dke87.html#TangCKW13</url>
+	</article>
+</dblp>
